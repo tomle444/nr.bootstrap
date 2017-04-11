@@ -83,5 +83,6 @@ Thumbs.db
 # ignore node/grunt dependency directories
 node_modules/
 .npm-debug.log
+.psd
 tmp
 wp-config.php
